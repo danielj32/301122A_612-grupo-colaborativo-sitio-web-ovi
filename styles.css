@@ -1,6 +1,6 @@
 
 body, main {display: flex;
-    background: gray;
+    background: rgb(128, 128, 128);
 }
 body {flex-direction: column}
 
